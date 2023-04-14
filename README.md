@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @liuyuhan1234
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 我在远端更新了一行
+<h2 align="center">Hi there 👋</h2>
 
-<!---
-liuyuhan1234/liuyuhan1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+ <span>
+  <a href="https://leetcode.cn/u//">
+<img src="https://leetcode.com/favicon-32x32.png" alt="leetcode" width="30" height="30"/>
+  </a>
+  </span>
+  <span>
+    <a href="https://space.bilibili.com/">
+<img src="https://www.bilibili.com/favicon.ico" alt="bilibili" with="28" height="30">
+    </a>
+  </span>
+  <span>
+  <a href="https://www/">
+<img src="https://acking-you.gitee.io/favicon.ico" alt="myNoteWebsite" with="30" height="30">
+  </a>
+  </span>
+</div>
+
+
+
+- 🌱 I'm best at C++.
+- 🎢 Other language proficiency rankings: Python>java.
+- 🖼️ The UI frameworks I've used: Qt
+- ❤️ Love anything that's high-performance and easy to use.
+
+
+
