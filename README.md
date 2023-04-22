@@ -1,7 +1,7 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hi there👋</h2>
 
 - 🌱 I'm best at C++.
-- 🎢 Other language proficiency rankings: Python>java.
+- 🎢 Other language proficiency rankings: Shell>Python.
 - 🖼️ The UI frameworks I've used: Qt
 - ❤️ Love anything that's high-performance and easy to use.
 
